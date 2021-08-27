@@ -28,7 +28,7 @@
 
 <div style='font-family: "Roboto", sans-serif; display:flex;justify-content:space-around;align-items:center;'>
     <div style="width:70%">
-<!--           <img style="width:50%" align='right' src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" /> -->
+          <img style="width:50%" align='right' src="https://media1.giphy.com/media/R6xi8dXsRhIjK/giphy.gif?cid=790b761179de3c29da8c3ac45ba2db520c7a9f11df4ddb3c&rid=giphy.gif&ct=g" /> 
         <h2 style='font-family: "Roboto", sans-serif; display:flex;align-items:center;'>🚀 Some facts about me</h2>
         <ul>
             <li>🔭 I’m currently studying at <a href="https://oclock.io/"><b>o'Clock</b></a> to become better at coding.</li>
