@@ -31,7 +31,7 @@
           <img style="width:50%" align='right' src="https://media1.giphy.com/media/R6xi8dXsRhIjK/giphy.gif?cid=790b761179de3c29da8c3ac45ba2db520c7a9f11df4ddb3c&rid=giphy.gif&ct=g" /> 
         <h2 style='font-family: "Roboto", sans-serif; display:flex;align-items:center;'>🚀 Some facts about me</h2>
         <ul>
-            <li>🔭 I’m currently studying at <a href="https://oclock.io/"><b>o'Clock</b></a> to become better at coding.</li>
+            <li>🔭 I studied at <a href="https://oclock.io/"><b>o'Clock</b></a> to become better at coding.</li>
             <li>🔨 Working on <a href="http://explorastro.com"><b>ExplorAstro</b></a>, a social network to participate in astronomical explorations between enthusiasts!</li>
             <li>🧐 Learning about <strong>REACT</strong>.</li>
             <li>💬 Ask me about <strong>my projects</strong>, or cool stuff.</li>
