@@ -5,13 +5,13 @@
           <img style="width:50%" align='right' src="https://media1.giphy.com/media/R6xi8dXsRhIjK/giphy.gif?cid=790b761179de3c29da8c3ac45ba2db520c7a9f11df4ddb3c&rid=giphy.gif&ct=g" /> 
         <h2 style='font-family: "Roboto", sans-serif; display:flex;align-items:center;'>🚀 Some facts about me</h2>
         <ul>
-            <li>🔭 I studied at <a href="https://oclock.io/"><b>o'Clock</b></a> to become better at coding.</li>
-            <li>🔨 Worked on <a href="http://explorastro.com"><b>ExplorAstro</b></a>, a social network to participate in astronomical explorations between enthusiasts!</li>
-                <li>🧐 Learning about <strong>REACT</strong>, <strong>JS</strong> and <strong>VUEJS</strong>.</li>
-            <li>💬 Ask me about <strong>my projects</strong>, or cool stuff.</li>
-            <li>🌱 I’m currently learning **React, VueJS and more** </li>
-            <li>👨‍💻 All of my projects are available at [www.remijacquemin.fr](www.remijacquemin.fr) </li>
-            <li>📫 How to reach me **rjacquemin019@gmail.com** </li>
+            - 🔭 I studied at <a href="https://oclock.io/"><b>o'Clock</b></a> to become better at coding.
+            - 🔨 Worked on <a href="http://explorastro.com"><b>ExplorAstro</b></a>, a social network to participate in astronomical explorations between enthusiasts!
+            - 🧐 Learning about <strong>REACT</strong>, <strong>JS</strong> and <strong>VUEJS</strong>.
+            - 💬 Ask me about <strong>my projects</strong>, or cool stuff.
+            - 🌱 I’m currently learning **React, VueJS and more** 
+            - 👨‍💻 All of my projects are available at [www.remijacquemin.fr](www.remijacquemin.fr)
+            - 📫 How to reach me **rjacquemin019@gmail.com**
         </ul>
     </div>
 </div>
