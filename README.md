@@ -9,6 +9,9 @@
             <li>🔨 Worked on <a href="http://explorastro.com"><b>ExplorAstro</b></a>, a social network to participate in astronomical explorations between enthusiasts!</li>
                 <li>🧐 Learning about <strong>REACT</strong>, <strong>JS</strong> and <strong>VUEJS</strong>.</li>
             <li>💬 Ask me about <strong>my projects</strong>, or cool stuff.</li>
+            <li>🌱 I’m currently learning **React, VueJS and more**</li>
+            <li>👨‍💻 All of my projects are available at [www.remijacquemin.fr](www.remijacquemin.fr)</li>
+            <li>📫 How to reach me **rjacquemin019@gmail.com**</li>
         </ul>
     </div>
 </div>
@@ -46,11 +49,6 @@
         <img src="https://img.shields.io/badge/Uber_Eats-5FB709?style=for-the-badge&logo=uber-eats&logoColor=white" />
 </div>
 
-- 🌱 I’m currently learning **React, VueJS and more**
-
-- 👨‍💻 All of my projects are available at [www.remijacquemin.fr](www.remijacquemin.fr)
-
-- 📫 How to reach me **rjacquemin019@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
