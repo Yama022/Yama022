@@ -13,6 +13,10 @@
             <li> 👨‍💻 All of my projects are available at www.remijacquemin.fr </li>
             <li> 📫 How to reach me <a href="mailto:rjacquemin019@gmail.com">rjacquemin019@gmail.com</a> </li>
         </ul>
+        <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/remi-jacquemin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="remi-jacquemin" height="30" width="40" /></a>
+</p>
     </div>
 </div>
 <br>
@@ -51,10 +55,7 @@
 </div>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/remi-jacquemin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="remi-jacquemin" height="30" width="40" /></a>
-</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yama022&show_icons=true&locale=en&layout=compact" alt="yama022" /></p>
 
