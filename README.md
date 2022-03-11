@@ -11,12 +11,13 @@
             <li>💬 Ask me about <strong>my projects</strong>, or cool stuff.</li>
            
         </ul>
-         - 🌱 I’m currently learning **React, VueJS and more** 
-            - 👨‍💻 All of my projects are available at [www.remijacquemin.fr](www.remijacquemin.fr)
-            - 📫 How to reach me **rjacquemin019@gmail.com**
+         
     </div>
 </div>
 <br>
+- 🌱 I’m currently learning **React, VueJS and more** 
+            - 👨‍💻 All of my projects are available at [www.remijacquemin.fr](www.remijacquemin.fr)
+            - 📫 How to reach me **rjacquemin019@gmail.com**
 
 <h1 align="center">Hi 👋, I'm Yama022</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
