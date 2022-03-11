@@ -11,7 +11,7 @@
             <li>💬 Ask me about <strong>my projects</strong>, or cool stuff.</li>
             <li> 🌱 I’m currently learning <strong> TypeScript </strong> </li>
             <li> 👨‍💻 All of my projects are available at www.remijacquemin.fr </li>
-            <li> 📫 How to reach me <a>rjacquemin019@gmail.com</a> </li>
+            <li> 📫 How to reach me <a href="mailto:rjacquemin019@gmail.com">rjacquemin019@gmail.com</a> </li>
         </ul>
          
     </div>
