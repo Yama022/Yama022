@@ -13,7 +13,6 @@
             <li> 👨‍💻 All of my projects are available at www.remijacquemin.fr </li>
             <li> 📫 How to reach me <a href="mailto:rjacquemin019@gmail.com">rjacquemin019@gmail.com</a> </li>
         </ul>
-         
     </div>
 </div>
 <br>
