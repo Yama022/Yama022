@@ -9,9 +9,9 @@
             <li>🔨 Worked on <a href="http://explorastro.com"><b>ExplorAstro</b></a>, a social network to participate in astronomical explorations between enthusiasts!</li>
                 <li>🧐 Learning about <strong>REACT</strong>, <strong>JS</strong> and <strong>VUEJS</strong>.</li>
             <li>💬 Ask me about <strong>my projects</strong>, or cool stuff.</li>
-            <li>🌱 I’m currently learning **React, VueJS and more**</li>
-            <li>👨‍💻 All of my projects are available at [www.remijacquemin.fr](www.remijacquemin.fr)</li>
-            <li>📫 How to reach me **rjacquemin019@gmail.com**</li>
+            <li>🌱 I’m currently learning **React, VueJS and more** </li>
+            <li>👨‍💻 All of my projects are available at [www.remijacquemin.fr](www.remijacquemin.fr) </li>
+            <li>📫 How to reach me **rjacquemin019@gmail.com** </li>
         </ul>
     </div>
 </div>
