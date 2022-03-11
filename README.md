@@ -32,8 +32,8 @@
         <h2 style='font-family: "Roboto", sans-serif; display:flex;align-items:center;'>🚀 Some facts about me</h2>
         <ul>
             <li>🔭 I studied at <a href="https://oclock.io/"><b>o'Clock</b></a> to become better at coding.</li>
-            <li>🔨 Working on <a href="http://explorastro.com"><b>ExplorAstro</b></a>, a social network to participate in astronomical explorations between enthusiasts!</li>
-                <li>🧐 Learning about <strong>REACT</strong> and <strong>VUEJS</strong>.</li>
+            <li>🔨 Worked on <a href="http://explorastro.com"><b>ExplorAstro</b></a>, a social network to participate in astronomical explorations between enthusiasts!</li>
+                <li>🧐 Learning about <strong>REACT</strong>, <strong>JS</strong> and <strong>VUEJS</strong>.</li>
             <li>💬 Ask me about <strong>my projects</strong>, or cool stuff.</li>
         </ul>
     </div>
