@@ -28,7 +28,7 @@
 
 <div align='center'>
         <h2 style='font-family: "Roboto", sans-serif; display:flex;align-items:center;'>💻 Languages and tools I use</h2>
-        <h3 align="center"/>FRONT END </h3><br>
+        <img src="https://thumbs.dreamstime.com/b/outline-front-end-vector-icon-isolated-black-simple-line-element-illustration-technology-concept-editable-stroke-white-144320919.jpg" align="center" width="15%"/><br><br>
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br>
@@ -36,12 +36,12 @@
         <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-        <img src="https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=Bulma&logoColor=white" />
-        <h3 align="center">BACK END</h3><br>
+        <img src="https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=Bulma&logoColor=white" /><br><br>
+        <img src="https://cdn.vectorstock.com/i/preview-1x/78/48/back-end-icon-simple-element-from-website-vector-34877848.webp" align="center" width="15%" /><br><br>
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-        <h3 align="center">TOOLS</h3><br>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /><br><br>
+        <img src="https://thumbs.dreamstime.com/b/tools-vector-icon-white-background-flat-symbol-sign-modern-construction-collection-mobile-concept-web-apps-design-161787735.jpg" align="center" width="15%"/><br><br>
         <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
         <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
