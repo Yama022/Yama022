@@ -27,6 +27,7 @@
 
 <div align='center'>
         <h2 style='font-family: "Roboto", sans-serif; display:flex;align-items:center;'>💻 Languages and tools I use</h2>
+        <img src="https://images.assetsdelivery.com/compings_v2/zaurrahimov/zaurrahimov1912/zaurrahimov191202642.jpg" width="200px" align="center"/><br><br>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
@@ -50,11 +51,14 @@
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><br>
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
         <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" /><br>
+        
+        
 </div>
 
 
 
+<br>
+<br>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yama022&show_icons=true&locale=en&layout=compact" alt="yama022" /></div><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yama022&show_icons=true&locale=en&layout=compact" alt="yama022" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yama022&show_icons=true&locale=en" alt="yama022" /></p>
+<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yama022&show_icons=true&locale=en" alt="yama022" /></div>
