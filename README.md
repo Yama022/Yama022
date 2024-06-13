@@ -33,6 +33,16 @@
 
 <img src="https://wakatime.com/badge/user/0fe57edc-ed78-4436-9dde-6d426bf356bb.svg" />
 
+<div align="center">
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Yama022/083e30f3-757b-472e-96ed-6272f598a3e8.png" /></a>
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Yama022/31279e2d-21a0-4029-97d9-b6f461a54c69.png" /></a>
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Yama022/9dd68f92-586a-4bb9-a7f1-a8184e4a4876.png" /></a>
+
+</div>
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
