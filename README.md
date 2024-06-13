@@ -29,6 +29,10 @@
 
 <br/>  
 
+### My WakaTime :
+
+<img src="https://wakatime.com/badge/user/0fe57edc-ed78-4436-9dde-6d426bf356bb.svg" />
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
