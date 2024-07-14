@@ -12,7 +12,7 @@
 - Worked on <a href="http://explorastro.com"><b>ExplorAstro</b></a>, a social network to participate in astronomical explorations between enthusiasts!  
   
 
-- 🧐 Learning about <strong>REACT</strong>, <strong>JS</strong> and <strong>NEXT.JS</strong>.  
+- 🧐 Learning about <strong>REACT</strong> and <strong>NEXT.JS</strong>.  
   
 
 - 🌱 I’m currently learning <strong> TypeScript </strong>  
