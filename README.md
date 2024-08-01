@@ -31,7 +31,7 @@
 
 ### My WakaTime :
 
-<img src="https://wakatime.com/badge/user/0fe57edc-ed78-4436-9dde-6d426bf356bb.svg" />
+<a href="https://wakatime.com/@0fe57edc-ed78-4436-9dde-6d426bf356bb"><img src="https://wakatime.com/badge/user/0fe57edc-ed78-4436-9dde-6d426bf356bb.svg" alt="Total time coded since Aug 27 2021" /></a>
 
 <div align="center">
 
