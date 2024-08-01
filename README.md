@@ -37,10 +37,6 @@
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Yama022/083e30f3-757b-472e-96ed-6272f598a3e8.png" /></a>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Yama022/31279e2d-21a0-4029-97d9-b6f461a54c69.png" /></a>
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Yama022/9dd68f92-586a-4bb9-a7f1-a8184e4a4876.png" /></a>
-
 </div>
 
 
@@ -103,20 +99,6 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Yama022&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1196236513&cover_image=true&theme=default" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Yama022&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
